@@ -1,0 +1,13 @@
+theia@theiadocker-vijayendarsi:/home/project/final_project/oaqjp-f
+inal-project-emb-ai$ python3.11 test_emotion_detection.py -v
+test_emotion_detector (__main__.TestEmotionDetector.test_emotion_detector) ... Detected emotion: joy
+Detected emotion: anger
+Detected emotion: disgust
+Detected emotion: sadness
+Detected emotion: fear
+ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.642s
+
+OK
